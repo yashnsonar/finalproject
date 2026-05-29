@@ -1,0 +1,18 @@
+nav a:hover {
+    color: #d4af37;
+    transition: 0.3s;
+}
+
+.car-card {
+    transition: transform 0.3s ease;
+}
+
+.car-card:hover {
+    transform: translateY(-10px);
+}
+
+.hero-btn:hover,
+button:hover {
+    background-color: white;
+    transition: 0.3s;
+}
